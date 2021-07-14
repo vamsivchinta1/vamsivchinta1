@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any competitions and/or projects related to Analytics and/or Data Science
 - 📫 How to reach me - message me on linkedIn if you're interested
 
-#<!---
+<!---
 ---
 ## Work Experience <br />
 Engineer <br /> 
